@@ -1,0 +1,10 @@
+C:\Users\CLOUD\source\repos\PassGen\PassGen\bin\Debug\PassGen.exe.config
+C:\Users\CLOUD\source\repos\PassGen\PassGen\bin\Debug\PassGen.exe
+C:\Users\CLOUD\source\repos\PassGen\PassGen\bin\Debug\PassGen.pdb
+C:\Users\CLOUD\source\repos\PassGen\PassGen\obj\Debug\PassGen.csprojAssemblyReference.cache
+C:\Users\CLOUD\source\repos\PassGen\PassGen\obj\Debug\PassGen.Form1.resources
+C:\Users\CLOUD\source\repos\PassGen\PassGen\obj\Debug\PassGen.Properties.Resources.resources
+C:\Users\CLOUD\source\repos\PassGen\PassGen\obj\Debug\PassGen.csproj.GenerateResource.cache
+C:\Users\CLOUD\source\repos\PassGen\PassGen\obj\Debug\PassGen.csproj.CoreCompileInputs.cache
+C:\Users\CLOUD\source\repos\PassGen\PassGen\obj\Debug\PassGen.exe
+C:\Users\CLOUD\source\repos\PassGen\PassGen\obj\Debug\PassGen.pdb
